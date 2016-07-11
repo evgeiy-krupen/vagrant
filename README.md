@@ -16,3 +16,7 @@
 - Configure multiple VM’s in single Vagrantfile (2 VM’s)
 
  _I eddited Vagrantfile_
+
+ - Define shell provisioners
+ 
+_I created web.sh and app.sh scripts for it_
