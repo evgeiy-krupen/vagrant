@@ -14,4 +14,5 @@
 ![alt text](https://github.com/evgeniy-krupen/vagrant/blob/vagrant/sources/1-2.png "Pic 2")
 
 - Configure multiple VM’s in single Vagrantfile (2 VM’s)
+
  _I eddited Vagrantfile_
