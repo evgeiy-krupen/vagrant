@@ -24,4 +24,5 @@ _I created web.sh and app.sh scripts for it_
 - create VM
 
 _i used "vagrant up" and then checked ssh_
+
 ![alt text](https://github.com/evgeniy-krupen/vagrant/blob/vagrant/sources/1-4.png "Pic 4")
